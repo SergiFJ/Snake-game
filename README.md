@@ -10,7 +10,7 @@ make
 ```
 
 ## Implementation
-A program implemented with OpenGL. The main code is in the MyGLWwidget.cpp where you can find the interactions with the models that exists. In addition of the differents funcionalities that have the keys:
+A program implemented with OpenGL. The main code is in the MyGLWidget.cpp and LL2GLWidget.cpp where you can find the interactions with the models that exists. In addition of the differents funcionalities that have the keys:
 ```
 'key_left': move left.
 'key_right': move right.
