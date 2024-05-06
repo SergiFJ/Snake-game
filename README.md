@@ -1,5 +1,13 @@
 # Snake-game
-The original snake game
+The original snake game. To run this project you only need a recent g++ version, make installed in your system, plus a modern browser like Firefox or Chrome and the version 5 of QT.
+
+## How to build
+To build the project you need to do the following steps:
+```
+qmake
+make
+./Exercici-2
+```
 
 ## Implementation
 A program implemented with OpenGL. The main code is in the MyGLWwidget.cpp where you can find the interactions with the models that exists. In addition of the differents funcionalities that have the keys:
