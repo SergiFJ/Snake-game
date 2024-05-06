@@ -1,5 +1,5 @@
 # Snake-game
-The original snake game. To run this project you only need a recent g++ version, make installed in your system, plus a modern browser like Firefox or Chrome and the version 5 of QT.
+The original snake game. To run this project you only need a recent g++ version, make installed in your system, plus the version 5 of QT.
 
 ## How to build
 To build the project you need to do the following steps:
